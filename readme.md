@@ -1,3 +1,7 @@
+# Not my Project
+# I haved hosted on my server and during that I had some issues which led to copying of the whole app
+# [This is the origional work](https://github.com/anuraghazra/github-readme-stats)
+
 ## Github Readme stats
 
 [![Test](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg)](https://github.com/anuraghazra/github-readme-stats/actions)
